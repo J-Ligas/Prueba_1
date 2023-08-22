@@ -1,1 +1,3 @@
-Archivo para probar alternativa al comando git status
+Archivo para probar alternativa al comando  git status
+
+Rama "b"
