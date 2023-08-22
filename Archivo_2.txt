@@ -1,1 +1,2 @@
 Cambios al archivo 2 para verlos en el estatus de git
+Otro cambio después del commit
